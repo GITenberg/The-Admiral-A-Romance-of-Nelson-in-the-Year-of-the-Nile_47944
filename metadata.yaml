@@ -1,10 +1,16 @@
 _repo: The-Admiral-A-Romance-of-Nelson-in-the-Year-of-the-Nile_47944
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47944-h/images/cover.jpg
 creator:
   author:
     agent_name: Sladen, Douglas
     gutenberg_agent_id: '44539'
     url: http://www.gutenberg.org/2009/agents/44539
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47944#The-Admiral-A-Romance-of-Nelson-in-the-Year-of-the-Nile
 gutenberg_issued: '2015-01-11'
 gutenberg_type: Text
 identifiers:
